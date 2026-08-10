@@ -1,0 +1,171 @@
+    1  java - version
+    2  java - version
+    3  java - version
+    4  java - version
+    5  /Library/Internet\ plug
+    6  //Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -version
+    7  /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -version
+    8  java - script
+    9  java - version
+   10  java -version
+   11  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   12  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   13  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Hom...)"
+   14  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Hom...)"
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+   16  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   17  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/valeriiamarshalova/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+   18  brew help
+   19  java -script
+   20  java -version
+   21  GIT
+   22  git --version
+   23  java -version
+   24  git --version
+   25  brew install --cask dbeaver-community\n
+   26  brew install --cask postman
+   27  brew install git
+   28  brew install --cask discord
+   29  man ls
+   30  ls
+   31  clear
+   32  ls
+   33  cd desktop
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd ~
+   38  ls
+   39  cd desktop
+   40  cd desktop
+   41  ls
+   42  pwd
+   43  cd adele
+   44  clear
+   45  mkdir lesson
+   46  ls
+   47  touch empty.txt
+   48  ls
+   49  clear
+   50  vim empty.txt
+   51  vim empty.txt
+   52  nano empty.txt
+   53  mkdir www.txt
+   54  cd desktop
+   55  mkdir w2w.txt
+   56  touch www.txt
+   57  nano www.txt
+   58  cat www.txt
+   59  pwd
+   60  cp /Users/valeriiamarshalova/desktop/empty.txt\n
+   61  cp /Users/valeriiamarshalova/desktop/empty.txt valeriiamarshalova@Mac desktop % cp /Users/valeriiamarshalova/desktop/empty.txt\n\n
+   62  cp /Users/valeriiamarshalova/desktop/empty.txt /Users/valeriiamarshalova/downloads/empty.txt
+   63  clear
+   64  cp /Users/valeriiamarshalova/desktop/empty.txt /Users/valeriiamarshalova/Downloads/empty.txt
+   65  cp /Users/valeriiamarshalova/desktop/empty.txt /Users/valeriiamarshalova/downloads
+   66  cp /Users/valeriiamarshalova/desktop/www.txt /Users/valeriiamarshalova/downloads
+   67  mv /Users/valeriiamarshalova/desktop/www.txt /Users/valeriiamarshalova/downloads
+   68  cp /Users/valeriiamarshalova/desktop/www.txt /Users/valeriiamarshalova/downloadsclear
+   69  clear
+   70  ls
+   71  cd downloads
+   72  cd
+   73  ls
+   74  cd downloads
+   75  ls
+   76  rm www.txt
+   77  clear
+   78  ping
+   79  ping google.com
+   80  date
+   81  system_profiler
+   82  df -h
+   83  clesr
+   84  clear
+   85  ifconfig
+   86  whoami
+   87  cd Git
+   88  ls
+   89  cd desktop
+   90  cd Git
+   91  git config --global user.name "Valeriia Marshalova"
+   92  git config --global user.email valeriiamarshalova@gmail.com
+   93  git clone https://github.com/valeriiamarshalova/qualityassurance.git
+   94  git status
+   95  cd qualityassurance
+   96  git status
+   97  touch new.txt
+   98  git status
+   99  git add new.txt
+  100  git status
+  101  git commit -m "New file has been created"
+  102  git status
+  103  git log
+  104  git branch
+  105  git branch -b new_branch
+  106  git branch
+  107  git checkout -b new_branch
+  108  git branch
+  109  git checkout main
+  110  git branch
+  111  git checkout new_branch
+  112  nano new.txt
+  113  git status
+  114  git commit
+  115  git commit -m "New modification"
+  116  git status
+  117  git branch
+  118  git checkout main
+  119  git merge new_branch
+  120  git branch
+  121  git status
+  122  git commit
+  123  git checkout new_branch
+  124  git merge main
+  125  git status
+  126  git commit
+  127  git checkout main
+  128  git status
+  129  git add new.txt
+  130  git status
+  131  git commit "New modification"
+  132  git commit -m "Nee modification"
+  133  git push
+  134  git push
+  135  clear
+  136  brew install --cask visual-studio-code
+  137  cd Git
+  138  ls
+  139  cd desktop
+  140  cd git
+  141  history -c && rm ~/.bash_history
+  142  git config --global user.name "Valeriia Marshalova"
+  143  git config --global user.email valeriiamarshalova@gmail.com
+  144  git clone https://github.com/valeriiamarshalova/HW_10.git
+  145  cd HW_10
+  146  touch text_ignore.txt
+  147  nano text_ignore.txt
+  148  git status
+  149  git add text_ignore.txt
+  150  git status
+  151  git commit -m "New commit"
+  152  touch main_test.txt
+  153  git status
+  154  git add main_test.txt
+  155  git status
+  156  git checkout -b develop
+  157  git checkout develop
+  158  touch develop_test.txt
+  159  git status
+  160  git add develop_test.txt
+  161  git status
+  162  git commit -m "New commit2"
+  163  nano develop_test.txt
+  164  git status
+  165  git add develop_test.txt
+  166  git status
+  167  git commit -m "New commit3"
+  168  git checkout main
+  169  git merge develop
+  170  git log
+  171  command_list.csv
